@@ -12,3 +12,13 @@
 .screen-header__icons span {
   margin-left: 25px;
 }
+
+.cog__alram {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 2.5px;
+  position: absolute;
+  right: 20px;
+  top: 50px;
+}
