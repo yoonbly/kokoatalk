@@ -52,3 +52,7 @@
   display: block;
   margin-bottom: 10px;
 }
+.user-component__exclamation {
+  color: tomato;
+  margin-left: 3px;
+}
