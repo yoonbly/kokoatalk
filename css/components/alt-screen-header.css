@@ -1,6 +1,6 @@
 .alt-header {
   padding: 40px var(--horizontal-space);
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -12,6 +12,8 @@
   padding: 10px 20px;
   box-sizing: border-box;
   top: 0;
+}
+#chat-header {
   background-color: #abc1d1;
 }
 
