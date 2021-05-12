@@ -52,7 +52,8 @@
   display: block;
   margin-bottom: 10px;
 }
-.user-component__exclamation {
+.user-component__exclamation i {
   color: tomato;
   margin-left: 3px;
+  animation: notificationAnimation 2s ease-in-out infinite;
 }
